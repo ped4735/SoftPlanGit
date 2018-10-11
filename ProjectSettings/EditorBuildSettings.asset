@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scene/Persistent.unity
+    guid: a1b2c1e6449afd940807e72f35371d95
+  - enabled: 1
+    path: Assets/Scene/SplashScreen.unity
+    guid: f849fa3920274104da580ca1c6ecd9a9
+  - enabled: 1
+    path: Assets/Scene/TitleScreen.unity
+    guid: 48d694a08d8c92b48a6ecc81a143b17c
+  - enabled: 1
+    path: Assets/Scene/Gameplay.unity
+    guid: c68ed7b8212e1a644962946b328c9886
+  - enabled: 0
+    path: Assets/DataManager/Scenes/teste.unity
+    guid: 80d39ad8054f0ea4ca74ed9fe9731967
+  - enabled: 0
+    path: Assets/Splash/Scenes/PauseScreen.unity
+    guid: 60bf7506d9af16740acb643a5b6344d6
+  - enabled: 0
+    path: Assets/Splash/Scenes/main_menu.unity
+    guid: 90a6c6b3dc3d43b4abf4c53522346695
