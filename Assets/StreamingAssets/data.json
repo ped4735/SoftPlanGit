@@ -1,0 +1,196 @@
+{
+   "conversation":[
+      {
+         "name":"Recepção",
+         "text":[
+            "Bom dia!",
+            "Você é o novo Softplayer, não é mesmo?",
+			"Deixaram seu crachá aqui comigo, só um minuto...",
+			"Qual seu nome mesmo?",
+			"Aqui está, esse vai ser seu crachá temporário, logo você receberá o seu definitivo",
+			"Você irá usá-lo para entrar na Softplan passando-o pela catraca e para abrir as portas de outros andares",
+			"Pode esperar lá dentro naquelas cadeiras que logo já chega alguém para te guiar, boa sorte e seja bem vindo",
+			"Sinta-se à vontade."
+         ]
+      },
+	  {
+         "name":"Recepção1",
+         "text":[            
+			"Aqui está, esse vai ser seu crachá temporário, logo você receberá o seu definitivo",
+			"Você irá usá-lo para entrar na Softplan passando-o pela catraca e para abrir as portas de outros andares",
+			"Pode esperar lá dentro naquelas cadeiras que logo já chega alguém para te guiar, boa sorte e seja bem vindo",
+			"Sinta-se à vontade."
+         ]
+      },
+	  {
+         "name":"Recepção2",
+         "text":[
+            "Agora você pode passar as cratacas."            
+         ]
+      },
+	  {
+         "name":"Madrinha",
+         "text":[
+			"Oi, você é nosso novo Softplayer? Eu sou a sua madrinha",
+			"Aqui na Softplan todos os Softplayer possuem uma madrinha",
+			"Assim, qualquer dúvida que tiver ou qualquer necessidade que você precisar poderá pedir ajuda para mim está bem?"
+         ]
+      },
+	  {
+         "name":"SoftTour",
+         "text":[
+			"Aqui está sua mesa, e seu computador",
+			"Me acompanhe para conhecer nossa cozinha",
+			"Todos os andares com exceção do Mezanino possuem cozinha",
+			"Aqui você poderá armazenar sua comida na geladeira ou poderá pedir sua marmita no Café Soft que ela será entregue na cozinha de seu andar",
+			"Existem alguns outros lugares que também entregam martmita na empresa, porém você terá que descer até o Térreo para busca-las",
+			"O último andar (Ático) também possui cozinha, mesas, puffs e é um ótimo lugar para almoçar se preferir",
+			"Pronto, agora que você já conhece a empresa já podemos começar o trabalho"
+         ]
+      },
+	  {
+         "name":"Informações", 
+         "text":[
+			"Que tal conhecermos alguns sites importantes para o seu dia-a-dia?",
+			"Acesse: www.office.com e entre com as informações que lhe foram fornecidas para a sua conta",
+			"Primeiro vamos configurar sua assinatura para que você possa utilizar seu e-mail",
+			"Sua assinatura deve ser configurado da seguinte forma: ", 
+			"Nome Completo \n Cargo \n Sua Unidade \n Softplan \n + 55 48 3027-8000 \n Ramal: Seu Ramal \n www.softplan.com.br",
+			"Parabéns, agora você já pode mandar e-mail para quem quiser",
+			"O Office 365 nos fornece várias vantagens",
+			"Uma delas é o Yammer, uma rede social criada para que você possa compartilhar informações com os outros colaboradores",
+			"Além de você ter acesso a diversos grupos de seu interesse",
+			"Acesse: www.yammer.com para ficar por dentro de tudo que acontece na empresa",
+			"Existem mais alguns sites corporativos interessantes caso você queira conhecer como o portal do colaborador, softnews, crt...",
+			"Você pode encontrar o link de todos eles acessando: www.minha.softplan.com.br"
+         ]
+      },
+	  {
+         "name":"Desafio parte 1(Abrir Chamado)",
+         "text":[
+			"Oi Softplayer, verifique sua caixa de entrada para ver se você já recebeu algum e-mail novo",
+			"Nossa,que estranho, você irá precisar abrir um chamado para a infra te ajudar",
+			"Existem 3 formas de fazer isso: \n 1) Enviar um e-mail para: suporteti@softplan.com.br \n 2) Ligar para o ramal: 8130 \n 3) Cadastrar pelo site: www.sccdpd.softplan.com.br"
+         ]
+      },
+	  {
+         "name":"Desafio parte 2 (Abrir Chamado)",
+         "text":[
+			"Oi Softplayer, estou aqui para te ajudar com seu problema no e-mail",
+			"Deixe-me acessar sua máquina por um minuto para resolver isso",
+			"...",
+			"Prontinho, agora você já pode voltar a utilizar seu e-mail",
+			"Olha só, parece que você recebeu um e-mail do DHO"
+         ]
+      },
+	  {
+         "name":"DHO (Erro Marketing)",
+         "text":[
+			"Olá, acredito que você esteja procurando pelo DHO",
+			"Aqui é o marketing, somos responsáveis pela divulgação dos produtos da empresa" ,
+			"Enfim, mas o DHO fica na sala ao lado, qualquer coisa pode nos chamar"
+         ]
+      },
+      {
+         "name":"Documento de Admissão",
+         "text":[
+			"Oi Softplayer, estávamos aguardando você",
+			"Esse é o DHO",
+			"É aqui que você irá vir quando necessitar de alguma coisa em relação a sua contratação, plano de saúde, vale alimentação/refeição, entre outros...",
+			"Aqui está seu kit de boas-vindas!",
+			"E aqui está seu documento de admissão"
+         ]
+      },
+	  {
+         "name":"Parceria SESC",
+         "text":[
+			"Ah, é você Softplayer? Já ouviu falar da nossa parceria SESC?",
+			"Aqui na Softplan você consegue fazer convênio com o SESC",
+			"É só você trazer esse fórmulário preenchido e poderá fazer sua carterinha",
+			"Com a carterinha você consegue várias vantagens incriveis incluindo desconto em diversos cursos nas instituições do SESC"
+         ]
+      },
+	  {
+         "name":"Ilson",
+         "text":[
+			"Oi Softlayer, como vai? Me disseram que você estaria por aqui",
+			"Prazer, meu nome é Ilson",
+			"Sou o diretor da Unidade de Justiça da empresa",
+			"Atualmente a maior unidade presente na Softplan",
+			"Espero que você esteja gostando da nossa forma de trabalhar",
+			"Nos importamos muito com o seu conforto em nossa empresa",
+			"Se precisar de qualquer coisa, estou a disposição",
+			"Bom, preciso ir agora, tenho um compromisso",
+			"Tchau Softplayer, muito prazer em te conhecer"
+         ]
+      },
+	  {
+         "name":"Marafon",
+         "text":[
+			"Oi, acredito que ainda não te conheço...",
+			"Ah, você deve ser o novo Colaborador",
+			"Muito prazer, me chamo Marafon, sou o diretor Unidade de Gestão Pública",
+			"Fique a vontade para conversar comigo quando precisar"
+         ]
+      },
+	  {
+         "name":"Guto",
+         "text":[
+			"Oi Softplayer, tudo bem? Prazer em conhece-lo",
+			"Meu nome é Guto e sou o diretor Unidade da Construção aqui na Softplan",
+			"Você sabia que o primeiro software da Softplan foi lançado em 1990?",
+			"Carregamos uma longa história desde então...",
+			"Seja bem vindo a nossa história"
+         ]
+      },  
+	  {
+         "name":"Curiosidade - 1",
+         "text":[
+			"Oi, você sabe quais são os valores da Softplan?",
+			"Não se preocupe, eu te falo... \n Sustentabilidade, inovação, confiança, valoriação de pessoas e relações duradouras."
+         ]
+      },
+	  {
+         "name":"Curiosidade - 2",
+         "text":[
+			"Você sabia que a Softplan quer ser reconhecida como uma empresa de classe mundial?",
+			"Legal né?"
+         ]
+      },
+	  {
+         "name":"Curiosidade - 3",
+         "text":[
+			"A Softplan possui mais de 3500 clientes atualmente",
+			"Legal né?"
+         ]
+      },
+	  {
+         "name":"Curiosidade - 4",
+         "text":[
+			"Você sabia que a Softplan recebeu o prêmio do GPTW 2017?",
+			"Isso mesmo, nossa empresa está entre os 10 melhores lugares para se trabalhar em Santa Catarina",
+			"Opa, falando em trabalhar..."
+         ]
+      },
+	  {
+         "name":"Curiosidade - 5",
+         "text":[
+			"O primeiro Software da Softplan recebeu o nome de Sienge e foi lançado em 1990"
+         ]
+      },
+	  {
+         "name":"Curiosidade - 6",
+         "text":[
+			"Você sabia que a Unidade da Justiça (UNJ) só surgiu em 1993 aqui na Softplan?",
+			"Nosso primeiro cliente foi o TJSC"
+         ]
+      },
+	  {
+         "name":"Curiosidade - 7",
+         "text":[
+			"Em 2016 a Softplan mudou sua sede para o Sapiens Parque, em Florianópolis",
+			"Incrível não é mesmo"
+         ]
+      }
+   ] 
+}

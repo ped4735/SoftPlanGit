@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 0e8998ac206a6db4498d87b301ef112a
+timeCreated: 1530579048
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanLCalf
+    100006: Base HumanLCollarbone
+    100008: Base HumanLDigit11
+    100010: Base HumanLDigit12
+    100012: Base HumanLDigit13
+    100014: Base HumanLFoot
+    100016: Base HumanLForearm
+    100018: Base HumanLPalm
+    100020: Base HumanLPlatform
+    100022: Base HumanLThigh
+    100024: Base HumanLUpperarm
+    100026: Base HumanNeck1
+    100028: Base HumanNeck2
+    100030: Base HumanPelvis
+    100032: Base HumanRCalf
+    100034: Base HumanRCollarbone
+    100036: Base HumanRDigit11
+    100038: Base HumanRDigit12
+    100040: Base HumanRDigit13
+    100042: Base HumanRFoot
+    100044: Base HumanRForearm
+    100046: Base HumanRibcage
+    100048: Base HumanRPalm
+    100050: Base HumanRPlatform
+    100052: Base HumanRThigh
+    100054: Base HumanRUpperarm
+    100056: Base HumanSpine1
+    100058: Base HumanSpine2
+    100060: Base HumanSpine3
+    100062: Base HumanSpine4
+    100064: Bengala_bone
+    100066: BLIND
+    100068: BLIND_BODY
+    100070: BLIND_GLASSES
+    100072: BLIND_VARETA
+    100074: //RootNode
+    100076: FEM
+    100078: FEM_BODY
+    100080: GUTO
+    100082: GUTO_BODY
+    100084: ILSON
+    100086: ILSON_BODY
+    100088: MARAFON
+    100090: MARAFON_BODY
+    100092: PLAYER
+    100094: PLAYER 1
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanLCalf
+    400006: Base HumanLCollarbone
+    400008: Base HumanLDigit11
+    400010: Base HumanLDigit12
+    400012: Base HumanLDigit13
+    400014: Base HumanLFoot
+    400016: Base HumanLForearm
+    400018: Base HumanLPalm
+    400020: Base HumanLPlatform
+    400022: Base HumanLThigh
+    400024: Base HumanLUpperarm
+    400026: Base HumanNeck1
+    400028: Base HumanNeck2
+    400030: Base HumanPelvis
+    400032: Base HumanRCalf
+    400034: Base HumanRCollarbone
+    400036: Base HumanRDigit11
+    400038: Base HumanRDigit12
+    400040: Base HumanRDigit13
+    400042: Base HumanRFoot
+    400044: Base HumanRForearm
+    400046: Base HumanRibcage
+    400048: Base HumanRPalm
+    400050: Base HumanRPlatform
+    400052: Base HumanRThigh
+    400054: Base HumanRUpperarm
+    400056: Base HumanSpine1
+    400058: Base HumanSpine2
+    400060: Base HumanSpine3
+    400062: Base HumanSpine4
+    400064: Bengala_bone
+    400066: BLIND
+    400068: BLIND_BODY
+    400070: BLIND_GLASSES
+    400072: BLIND_VARETA
+    400074: //RootNode
+    400076: FEM
+    400078: FEM_BODY
+    400080: GUTO
+    400082: GUTO_BODY
+    400084: ILSON
+    400086: ILSON_BODY
+    400088: MARAFON
+    400090: MARAFON_BODY
+    400092: PLAYER
+    400094: PLAYER 1
+    2100000: 01 - Default
+    2100002: 'Material #25'
+    2100004: No Name
+    2100006: Material.002
+    2100008: 'Material #26'
+    4300000: PLAYER
+    4300002: PLAYER
+    4300004: GUTO
+    4300006: GUTO_BODY
+    4300008: FEM_BODY
+    4300010: ILSON_BODY
+    4300012: ILSON
+    4300014: BLIND_VARETA
+    4300016: BLIND_GLASSES
+    4300018: BLIND
+    4300020: BLIND_BODY
+    4300022: MARAFON
+    4300024: MARAFON_BODY
+    4300026: FEM
+    7400000: CHARACTERDEFAULT04
+    9500000: //RootNode
+    13700000: BLIND
+    13700002: BLIND_BODY
+    13700004: BLIND_GLASSES
+    13700006: BLIND_VARETA
+    13700008: FEM
+    13700010: FEM_BODY
+    13700012: GUTO
+    13700014: GUTO_BODY
+    13700016: ILSON
+    13700018: ILSON_BODY
+    13700020: MARAFON
+    13700022: MARAFON_BODY
+    13700024: PLAYER
+    13700026: PLAYER 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CHARACTERDEFAULT04
+      takeName: CHARACTERDEFAULT04
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
